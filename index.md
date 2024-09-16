@@ -6,3 +6,7 @@
 df <- df %>%
   mutate(var = x1 + x2)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
